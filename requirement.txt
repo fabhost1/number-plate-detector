@@ -1,0 +1,11 @@
+flatbuffers
+termcolor
+typing_extensions
+wrapt
+protobuf
+scikit-learn
+matplotlib
+opencv-python
+pandas
+numpy
+imutils
